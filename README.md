@@ -137,8 +137,7 @@ httpd.serve_forever()
 ## OUTPUT:
 ![alt text](<fwd exp1 (1).png>)
 
-![alt text](<../env1/fwd exp1 (2).png>)
-
+![alt text](<fwd exp1 (2).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
 
